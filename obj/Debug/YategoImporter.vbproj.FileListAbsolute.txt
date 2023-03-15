@@ -1,0 +1,33 @@
+C:\Users\jbludau\AppData\Local\Temporary Projects\YategoImporter\bin\Debug\YategoImporter.exe.config
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\bin\Debug\YategoImporter.exe.config
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\bin\Debug\YategoImporter.exe
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\bin\Debug\YategoImporter.pdb
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\bin\Debug\YategoImporter.xml
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.vbprojResolveAssemblyReference.cache
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.frmMain.resources
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.frmDatenbankEinstellungen.resources
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.frmDemoVersion.resources
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.frmDemoVersionRegistrieren.resources
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.Resources.resources
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.vbproj.GenerateResource.Cache
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.exe
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.xml
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.pdb
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.frmYategoSettings.resources
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.frmKunde_neu.resources
+C:\Programmierung - Codeing\VB .NET\YategoImporter\YategoImporter\obj\Debug\YategoImporter.frmKunde_neu.vi.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.vbproj.AssemblyReference.cache
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.vbproj.SuggestedBindingRedirects.cache
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.frmKunde_neu.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.frmMain.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.frmDatenbankEinstellungen.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.frmDemoVersion.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.frmDemoVersionRegistrieren.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.frmYategoSettings.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.Resources.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.frmKunde_neu.vi.resources
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.vbproj.GenerateResource.cache
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.vbproj.CoreCompileInputs.cache
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.exe
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.xml
+C:\Users\WINDASI\source\repos\thE-iNviNciblE\Yatego-Importer\obj\Debug\YategoImporter.pdb
